@@ -1,0 +1,2 @@
+# releases
+Buildnote releases repository
